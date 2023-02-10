@@ -1,0 +1,6 @@
+[submodule "CS4215-frontend"]
+	path = CS4215-frontend
+	url = https://github.com/yangdinglou/CS4215-frontend
+[submodule "calc-slang"]
+	path = calc-slang
+	url = "https://github.com/SKCheongBrian/calc-slang#usage"
