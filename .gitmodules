@@ -3,4 +3,4 @@
 	url = https://github.com/yangdinglou/CS4215-frontend
 [submodule "calc-slang"]
 	path = calc-slang
-	url = "https://github.com/SKCheongBrian/calc-slang#usage"
+	url = https://github.com/SKCheongBrian/calc-slang
