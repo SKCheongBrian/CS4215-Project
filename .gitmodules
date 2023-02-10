@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/source-academy/frontend
+[submodule "js-slang"]
+	path = js-slang
+	url = https://github.com/source-academy/js-slang
